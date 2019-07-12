@@ -4,20 +4,20 @@ I classified the reviews using sentiment analysis and Harvard emotional dictiona
 The algorithm then ranks the medicine with highest rating for the condition and recommends it to the user.
 
 
-![1].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/1.jpg)
+![1](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/1.jpg)
 
-![2].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/2.jpg)
+![2](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/2.jpg)
 
-![3].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/3.jpg)
+![3](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/3.jpg)
 
-![4].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/4.jpg)
+![4](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/4.jpg)
 
-![5].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/5.jpg)
+![5](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/5.jpg)
 
-![6].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/6.jpg)
+![6](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/6.jpg)
 
-![7].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/7.jpg)
+![7](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/7.jpg)
 
-![8].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/8.jpg)
+![8](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/8.jpg)
 
-![9].(https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/9.jpg)
+![9](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/9.jpg)
