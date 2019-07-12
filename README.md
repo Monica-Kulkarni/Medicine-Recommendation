@@ -3,6 +3,10 @@ In this personal project I worked on UCI ML medical data, which contained variou
 I classified the reviews using sentiment analysis and Harvard emotional dictionary into positive or negative, on this basis I score the relevant medicine. 
 The algorithm then ranks the medicine with highest rating for the condition and recommends it to the user.
 
+![2](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/2.jpg)
 
+![3](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/3.jpg)
+
+![4](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/4.jpg)
 
 ![9](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/9.jpg)
