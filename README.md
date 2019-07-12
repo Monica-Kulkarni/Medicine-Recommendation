@@ -5,10 +5,15 @@ The algorithm then ranks the medicine with highest rating for the condition and 
 
 
 
-![1](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/1.jpg)
 
 ![2](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/2.jpg)
 
 ![3](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/3.jpg)
 
 ![4](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/4.jpg)
+
+![9](https://github.com/Monica-Kulkarni/Medicine-Recommendation/blob/master/9.jpg)
+
+
+
+
